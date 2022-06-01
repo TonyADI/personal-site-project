@@ -1,4 +1,4 @@
 # personal-site-project
-Bootstrap project from school.
+Bootstrap project.
 
 Site is live at https://tonyadi.com/apps/personal-site-project.html
